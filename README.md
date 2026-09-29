@@ -2,7 +2,7 @@
 
 A simple personal web page about me: my education, goals, hobbies, and the Blaze Fang Group.
 
-**Live page:** https://anismones10.github.io
+**Live page:** https://andishah-git-course.github.io/Anis_Mones/
 
 ## Features
 
@@ -15,13 +15,6 @@ A simple personal web page about me: my education, goals, hobbies, and the Blaze
 ## Run on your computer
 
 Download `index.html` and open it in any browser.
-
-## Edit the page
-
-Open `index.html` in a text editor. Each text has two versions:
-
-- `data-en` for English
-- `data-fa` for Persian
 
 ## Contact
 
