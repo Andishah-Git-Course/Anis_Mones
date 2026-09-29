@@ -23,15 +23,6 @@ Open `index.html` in a text editor. Each text has two versions:
 - `data-en` for English
 - `data-fa` for Persian
 
-Change both when you edit a text.
-
-## Publish with GitHub Pages
-
-1. Upload `index.html` to a public repository.
-2. Go to **Settings**, then **Pages**.
-3. Choose **Deploy from a branch**, then the `main` branch and the `/ (root)` folder.
-4. Save and wait 1 to 2 minutes.
-
 ## Contact
 
 - Telegram: [@Mones_Anis](https://t.me/Mones_Anis)
